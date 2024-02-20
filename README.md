@@ -5,7 +5,7 @@
 Hi! I am Ali Raza or Musawar Raza or you can also call me alfred 😀. I am a software engineer working primarily on database design and API development. I am crazy when it comes to learning and experimenting with new things, so.... here I am trying out rust.
 
 ## Project Details
-Hmmm... well, this project is my shot at learning and experimenting with rust using RiseIn's bootcamp. Whatever, I have learned in the bootcamp, I have applied it in this project. In a nutshell, this mini project simulates a console based inventory management system which includes the whole CRUD along with printing functionality (the table that prints the products is good though ngl 😁). Here is a bullet point of features for those who need to read this fast.
+Hmmm... well, this project is my shot at learning and experimenting with rust using RiseIn's bootcamp. Whatever I have learned in the bootcamp, I have applied it in this project. In a nutshell, this mini project simulates a console based inventory management system which includes the whole CRUD along with printing functionality (the table that prints the products is good though ngl 😁). Here is a bullet point of features for those who need to read this fast.
 
 - Create, Edit, Update and Delete a product
 - Search for a product
