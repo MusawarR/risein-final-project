@@ -12,6 +12,18 @@ Hmmm... well, this project is my shot at learning and experimenting with rust us
 - List down all products
 - Login using dummy credentials
 
+# How do I run it?
+Running this project is simple, here's what you gotta do
+- clone this repo: 'git clone REPO_URL'
+- Make sure you have rust compiler installed
+- Open the terminal in the project's directory
+- run **cargo build**
+- run **cargo run**
+- you can also do **cargo build && cargo run**
+- You will be asked to enter username and password (username: inventoryuser, password: mypassword)
+- You will be then greeted with a menu, choose any option and enjoy
+- Have fun!
+
 ## Vision
 Hmmm... my vision for this project is simple - Learn Rust and learn it such that I do not get demotivated. I have tried going through all material that rust has to provide in the past and it made it leave it but I realized that slow and baby steps are the way to go since rust is a different beast to tackle so grabbing on the fundamentals and then moving forward will help anyone who is pursuing it, don't rust it you know.
 
